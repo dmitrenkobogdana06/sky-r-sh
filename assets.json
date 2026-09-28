@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D glowing white-blue energy core sphere with a thin magnetic ring around it, centered, deep navy radial gradient background, crisp studio lighting, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, dark cosmic magnetic shaft interior, deep navy metal walls with faint blue and violet light streaks, heavy vignette, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, tall futuristic vertical shaft rising toward a golden beacon at the top, blue and violet neon rim light, volumetric glow, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred dark navy metallic shaft walls, low contrast, subtle blue glow, designed for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game result background, dark navy space with a distant golden beacon glow and soft violet nebula haze, low contrast, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "sprite_core",
+      "type": "sprite",
+      "prompt": "One single glowing blue-white energy core orb, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_beacon",
+      "type": "sprite",
+      "prompt": "One single golden beacon receiver device, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}
